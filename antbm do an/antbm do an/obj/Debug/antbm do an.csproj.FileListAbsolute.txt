@@ -24,3 +24,30 @@ C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\ant
 C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm_do_an.Choose_Priv.resources
 C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm_do_an.Choose_Priv_Type.resources
 C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm_do_an.Choose_Table.resources
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\Oracle.DataAccess.dll
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\OraOps12.dll
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\oci.dll
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\oramts.dll
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\oramts12.dll
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\oramtsus.dll
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\orannzsbb12.dll
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\oraocci12.dll
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\oraocci12d.dll
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\oraociei12.dll
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\oraons.dll
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\obj\Debug\antbm do an.csprojAssemblyReference.cache
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\obj\Debug\antbm_do_an.Choose_Priv.resources
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\obj\Debug\antbm_do_an.Choose_Priv_Type.resources
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\obj\Debug\antbm_do_an.Choose_Table.resources
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\obj\Debug\antbm_do_an.ChucNang_form.resources
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\obj\Debug\antbm_do_an.f_Admin.resources
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\obj\Debug\antbm_do_an.f_DangNhap.resources
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\obj\Debug\antbm_do_an.Properties.Resources.resources
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\obj\Debug\antbm do an.csproj.GenerateResource.cache
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\obj\Debug\antbm do an.csproj.CoreCompileInputs.cache
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\obj\Debug\antbm do an.csproj.CopyComplete
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\obj\Debug\antbm do an.exe
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\obj\Debug\antbm do an.pdb
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\antbm do an.exe.config
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\antbm do an.exe
+F:\SourceCode\-N-ATBM\antbm do an\antbm do an\bin\Debug\antbm do an.pdb
